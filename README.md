@@ -155,3 +155,9 @@ The simulator writes log files to the `logs/` directory.
 - Drivers are considered available when stored in the geohash availability index.
 - The simulator advances time only to the next ride arrival or driver release event.
 - A ride is marked unassigned after timing out or if no driver is available by simulation end.
+
+##
+
+This repository is the original interview submission snapshot.
+Active development and post-submission fixes continue here:
+https://github.com/FridiT/ride-share-simulator_
