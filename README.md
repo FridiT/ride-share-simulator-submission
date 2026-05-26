@@ -160,4 +160,4 @@ The simulator writes log files to the `logs/` directory.
 
 This repository is the original interview submission snapshot.
 Active development and post-submission fixes continue here:
-https://github.com/FridiT/ride-share-simulator_
+https://github.com/FridiT/ride-share-simulator
